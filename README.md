@@ -1,7 +1,9 @@
-<img width="4800" height="2520" alt="image" src="https://github.com/user-attachments/assets/f23e36ae-43db-46df-be18-f410c0977137" />
-
 هذا الـRepo مخصص لتجميع حلول المشاريع المطلوبة في دورات منصة سطر
 
 اي احد وده يضيف حل لمشروع غير موجود، حياه الله
 
 يفضل عدم استخدام الـAI في الحلول، نحن نفضل الشغل اليدوي
+Made by real humans
+
+
+<img width="4800" height="2520" alt="image" src="https://github.com/user-attachments/assets/f23e36ae-43db-46df-be18-f410c0977137" />
